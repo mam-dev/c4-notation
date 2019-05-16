@@ -33,6 +33,15 @@ Planned:
  * [mrich316/docker-sphinx-doc-builder](https://github.com/mrich316/docker-sphinx-doc-builder) – Docker image for a Sphinx documentation builder, with an included C4 PlantUML skin.
  * [ysholomii/structurizr_py](https://github.com/ysholomii/structurizr_py) – Python client library for Structurizr.
 
+Text Diagrams:
+
+ * https://github.com/plantuml/plantuml
+ * https://github.com/knsv/mermaid
+ * https://github.com/skanaar/nomnoml
+ * https://github.com/jaime-olivares/yuml-diagram
+ * https://github.com/aivarsk/scruffy
+ * https://github.com/ivanceras/svgbob
+
 
 ### Examples
 
