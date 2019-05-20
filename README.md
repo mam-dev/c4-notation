@@ -15,7 +15,17 @@ Planned:
 
 ## How to Use This?
 
-**TODO**
+Right now, `notation` holds subfolders for different SVG symbol themes including `default`.
+The latter is created according to the samples on `c4mnodel.com`.
+
+A `legend.svg` file holds all symbols and can be used directly as a legend insert.
+For different color schemes and specialized container types,
+create variants of that file for specific projects or your own common stencil.
+
+TODOs:
+
+ * Write a script that extracts symbols into their own SVG files.
+ * Explore how a yEd symbol group can be created (instead of importing single images).
 
 
 ## Related Projects
