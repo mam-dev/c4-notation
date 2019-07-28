@@ -16,7 +16,7 @@ Planned:
 ## How to Use This?
 
 Right now, `notation` holds subfolders for different SVG symbol themes including `default`.
-The latter is created according to the samples on `c4mnodel.com`.
+The latter is created according to the samples on `c4model.com`.
 
 A `legend.svg` file holds all symbols and can be used directly as a legend insert.
 For different color schemes and specialized container types,
@@ -42,6 +42,7 @@ TODOs:
 
  * [mrich316/docker-sphinx-doc-builder](https://github.com/mrich316/docker-sphinx-doc-builder) – Docker image for a Sphinx documentation builder, with an included C4 PlantUML skin.
  * [ysholomii/structurizr_py](https://github.com/ysholomii/structurizr_py) – Python client library for Structurizr.
+ * [Introducing Structurizr Express](http://www.codingthearchitecture.com/2016/06/06/introducing_structurizr_express.html)
 
 Text Diagrams:
 
